@@ -2,3 +2,4 @@ goodbye, world
 git has a mutable index called stage
 git tracks changes
 haha
+Create a new branch is dev
